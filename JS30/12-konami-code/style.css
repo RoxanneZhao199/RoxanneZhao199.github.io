@@ -1,0 +1,12 @@
+.content {
+  justify-content: center;
+  align-items: center;
+  font-size: 2rem;
+  text-align: center;
+}
+
+span {
+  text-decoration: underline;
+  text-decoration-style: dashed;
+  letter-spacing: 0.5rem;
+}
